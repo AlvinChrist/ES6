@@ -1,0 +1,6 @@
+- @hapi/hapi -- framework nodejs
+- nodemon -- restart server secara otomatis jika ada perubahan file 
+- eslint -- mengecek format code 
+- jest -- application tester
+- lodash -- memudahkan sorting array,dsb
+- nanoid -- id generator
